@@ -1,5 +1,5 @@
 # CS 228 (Fall 2019)
-This course served as an introduction to data structures. I found the projects to be fairly beneficial to my understanding of OOP (object oriented programming). Looking back on this course I've found man
+This course served as an introduction to data structures. I found the projects to be fairly beneficial to my understanding of OOP (object oriented programming). There were only 3 projects / homework assignments, so each project was pretty time consuming and challenging.
 
 ###### Homework 1
 The first homework assignment was to read in data from a NOAA weather file. From this file, we were to find the average, median, max, min (etc) of the days worth of data within the file. This served as an introduction to Java generics for me, as I had never seen them before.
